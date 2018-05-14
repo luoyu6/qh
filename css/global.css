@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	font-family: Arial;
+	font-size: 12px;
+	color: #171327;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.paddingBtm{
+	padding-bottom: 110px;;
+}
+
+.pos {
+	position: relative;
+}
+
+.fz14 {
+	font-size: 14px;
+}
+
+.lineHeight24 {
+	line-height: 24px;
+}
+
+.fz15 {
+	font-size: 15px;
+	;
+}
+
+a{color: #171327;}
+a:hover{
+	color: #6C5AAF;
+}
+
+.m_l_13{
+	margin-left: 13rem;
+}
+
+
+.ld_m_left{
+	margin-left: 53px;
+}
+
+
+
+.swiper-button-next, .swiper-button-prev{
+	top: 90%;
+	width: 45px;
+	height: 45px;
+	background-color: #4B329C;
+	    background-size: 14px;
+}
+.swiper-button-next{
+	left: 95%;
+}
+.swiper-button-prev{
+	left: 89%;
+}
+
+
+
+
+.ld_contents_btn_left{
+	left: 48px;
+}
+
+.ld_contents_btn_right{
+	left:0;
+}
+/*控制分页显示的点点点*/
+.ld_banner_pager{
+	left: 80% !important;
+}
+
+ .ld_contents_main{
+	top: 89%;
+	left: -36% !important;
+}
